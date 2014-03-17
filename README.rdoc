@@ -1,0 +1,7 @@
+## jQuery Sorting Demo
+
+Basic To-Do app with sortable to-do items.
+
+Uses [jQuery sortable][jquery-sortable].
+
+[jquery-sortable]: https://jqueryui.com/sortable/
